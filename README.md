@@ -156,16 +156,6 @@ python main.py
 
 ## 📚 Dokumentasi
 
-### Architecture Overview
-
-```
-Program Analisis Kalimat Super
-├── Presentation Layer (GUI - Tkinter)
-├── Business Logic Layer (Analisis Teks)
-├── Data Access Layer (History Manager)
-└── Utility Layer (Fungsi Bantu)
-```
-
 ### Workflow
 
 ```mermaid
