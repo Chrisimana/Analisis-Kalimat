@@ -1,20 +1,11 @@
 [
   {
-    "timestamp": "2025-11-05 06:37:53",
-    "kalimat_asli": "AKU ADALAH MANUSIA DI KEHIDUPAN INI, DAN SEBELUMNYA ADALAH KAISER API",
-    "kalimat_dibalik": "IPA RESIAK HALADA AYNMULEBES NAD ,INI NAPUDIHEK ID AISUNAM HALADA UKA",
-    "jumlah_vokal": 29,
-    "jumlah_konsonan": 29,
-    "jumlah_kata": 11,
-    "total_karakter": 69
-  },
-  {
-    "timestamp": "2025-11-10 16:50:33",
-    "kalimat_asli": "Testing 2 dilakukan untuk memastikan berhasil berjalan, i am ssorrt",
-    "kalimat_dibalik": "trross ma i ,nalajreb lisahreb nakitsamem kutnu nakukalid 2 gnitseT",
-    "jumlah_vokal": 21,
-    "jumlah_konsonan": 35,
-    "jumlah_kata": 10,
-    "total_karakter": 67
+    "timestamp": "2025-11-15 22:14:00",
+    "kalimat_asli": "Testing untuk mengetahui progress ini",
+    "kalimat_dibalik": "ini ssergorp iuhategnem kutnu gnitseT",
+    "jumlah_vokal": 13,
+    "jumlah_konsonan": 20,
+    "jumlah_kata": 5,
+    "total_karakter": 37
   }
 ]
